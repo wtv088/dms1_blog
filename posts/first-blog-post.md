@@ -8,7 +8,7 @@ allow_math: true
 
 # This is h1
 
-![a drippy lemon](logo.svg)
+![4 people](subfolder/pic1.png)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 

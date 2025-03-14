@@ -5,3 +5,4 @@ snippet: Another example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
+![4 people](subfolder/pic1.png)

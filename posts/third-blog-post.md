@@ -1,7 +1,7 @@
 ---
 title: Week 1 Session B
 published_at: 2025-14-03
-snippet: Another example of a blog post.
+snippet: Editing Principles
 disable_html_sanitization: true
 allow_math: true
 ---

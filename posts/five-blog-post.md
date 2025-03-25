@@ -19,7 +19,7 @@ For Week 2, Session 2 homework ToT, we had to watch Chapter 6 of *Premiere Pro 2
 
 
 Description
-Fragments of a journey of a designer <3
+**Fragments of a journey of a designer <3**
 
 The film begins in a quiet, calm and dark environment, introducing the mood and personal space of my world. The soft ambient music as the laptop boots, clock ticks and steam rise from the cup to create a peaceful start to the day. A soft morning light filters through the curtains. Setting the tone for what’s to come.
 

@@ -1,7 +1,7 @@
 ---
 title: Week 3 Session A
 published_at: 2025-14-03
-snippet: Storyboarding and Continuity
+snippet: Implementing Audio
 disable_html_sanitization: true
 allow_math: true
 ---

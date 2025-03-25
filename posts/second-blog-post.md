@@ -1,7 +1,7 @@
 ---
 title: Week 1 Session A
 published_at: 2025-14-03
-snippet: Another example of a blog post.
+snippet: Welcome to Digital Media
 disable_html_sanitization: true
 allow_math: true
 ---

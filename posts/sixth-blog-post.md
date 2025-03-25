@@ -11,7 +11,7 @@ For homework, we were asked to produce a draft of our video portrait for Assignm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sMiGtMRFqWs?si=jmDu11IkFF073MXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Description
+Description-
 **Fragments of a journey of a designer <3**
 
 The film begins in a quiet, calm and dark environment, introducing the mood and personal space of my world. The soft ambient music as the laptop boots, clock ticks and steam rise from the cup to create a peaceful start to the day. A soft morning light filters through the curtains. Setting the tone for what’s to come.

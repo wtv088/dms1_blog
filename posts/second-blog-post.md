@@ -16,4 +16,4 @@ In the first week, during session 1, we were given an overview of the assignment
 
 Towards the end, we were given homework to film a 30-second video of a space we enjoy spending time in.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_UxAwr5cBzc?si=lDCt0WF1cv2Orlto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

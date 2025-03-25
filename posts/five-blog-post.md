@@ -15,11 +15,11 @@ Mode of Attention (Reactive and Volitional): Reactive attention refers to sounds
 
 We also worked in teams to find hidden examples of the different modes of sound. Each team searched for various clips that demonstrated materialization, synchresis, diegetic and non-diegetic sound, as well as reactive and volitional attention, in real-world media. We then discussed and analyzed these clips in class.
 
-For Week 2, Session 2 homework, we had to watch Chapter 6 of *Premiere Pro 2025 Essential Training* and apply it to our project. We were tasked with identifying a key moment in our two-minute sequence and justifying how sound design and the soundtrack would enhance it. We also needed to consider specific sound design questions while planning.
+For Week 2, Session 2 homework ToT, we had to watch Chapter 6 of *Premiere Pro 2025 Essential Training* and apply it to our project. We were tasked with identifying a key moment in our two-minute sequence and justifying how sound design and the soundtrack would enhance it. We also needed to consider specific sound design questions while planning.
 
 
 Description
-Fragments of a journey of a designer
+Fragments of a journey of a designer <3
 
 The film begins in a quiet, calm and dark environment, introducing the mood and personal space of my world. The soft ambient music as the laptop boots, clock ticks and steam rise from the cup to create a peaceful start to the day. A soft morning light filters through the curtains. Setting the tone for what’s to come.
 

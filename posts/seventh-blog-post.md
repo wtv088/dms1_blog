@@ -1,5 +1,5 @@
 ---
-title: Week 3 Session b
+title: Week 3 Session B
 published_at: 2025-14-03
 snippet: Final Cut
 disable_html_sanitization: true

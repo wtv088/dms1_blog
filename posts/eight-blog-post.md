@@ -27,12 +27,13 @@ It is a browser-based platform that is accessible without download. Designing fo
 
 **Context**
 
-It is a website or an app with interactive icons with various ambient noises, it is a sort of playlist of different ambient noises that gives a soothing effect when the cursor hovers on the icons.
+It is a website or an app with interactive icons with various ambient noises, it is a sort of playlist of different ambient noises that gives a soothing effect when the cursor hovers over the icons.
 
 **Audience**
+
 Designed for insomniacs, a common sleep disorder that can make it hard to fall asleep or stay asleep. It also can cause them to wake up too early and not be able to get back to sleep. they may still feel tired when they wake up. Insomnia can drain their energy level and affect their mood.
 
-Designed for young to middle aged adults such as students, professionals and parents, who after a long day of work find it difficult to sleep and relax. Most prefer easy to use websites that doesn’t involve any logging in or registration to use them. User can immediately use and interact with icons without having to worry about their email and passwords, they just have to select their preferred icon and sound, and rest. 
+Designed for young to middle aged adults such as students, professionals and parents, who after a long day of work find it difficult to sleep and relax. Most prefer easy to use websites that doesn’t involve any logging in or registration to use them. User can immediately use and interact with icons without having to worry about their emails and passwords, they just have to select their preferred icon and sound, and rest. 
 The website or app contains various types of noises such as black noise, pink noise, white noise, green noise, velvet noise, etc, that are scientifically proven to help insomniacs fall asleep and stay asleep.
 
-Green colour Is used which is known to symbolize freshness, harmony and peace, desperately needs for people suffering with insomnia.
+Green colour Is used which is known to symbolize freshness, harmony and peace, desperately needed by people suffering from insomnia.

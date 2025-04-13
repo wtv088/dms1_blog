@@ -17,23 +17,28 @@ Along with the Black Square Activity, we were introduced to the Assignment 2, sh
 
 Personally, the prompt that appealed to me was “dream”, as it can be interpreted in various ways and forms.
 
-We made a mind map to help brainstorm ideas.
+For homework, We  had to make a mind map to help brainstorm ideas.
 
 ![mind map](subfolder/pic10.png)
 
 **Platform**
 
-It is a browser-based platform that is accessible without download. Designing for an iPhone application for website. It is clean, minimal and icon-driven without any text along with custom – designed icons that visually conveys its effect.
+It is a browser-based platform that is accessible without download. Designing for an iPhone application for website. It is clean, minimal and icon-driven without any text along with custom – designed icons that visually conveys the effect of insomnia on individuals.
 
 **Context**
 
-It is a website or an app with interactive icons with various ambient noises, it is a sort of playlist of different ambient noises that gives a soothing effect when the cursor hovers over the icons.
+The icons I designed represent the emotional and mental experiences commonly felt by individuals with insomnia. Each icon is paired with a sound that reflects the internal thoughts and feelings associated with their condition. As these experiences occur on a daily basis, the app is intended to be a relatable and meaningful tool for those who struggle with sleep.
 
 **Audience**
 
 Designed for insomniacs, a common sleep disorder that can make it hard to fall asleep or stay asleep. It also can cause them to wake up too early and not be able to get back to sleep. they may still feel tired when they wake up. Insomnia can drain their energy level and affect their mood.
 
-Designed for young to middle aged adults such as students, professionals and parents, who after a long day of work find it difficult to sleep and relax. Most prefer easy to use websites that doesn’t involve any logging in or registration to use them. User can immediately use and interact with icons without having to worry about their emails and passwords, they just have to select their preferred icon and sound, and rest. 
-The website or app contains various types of noises such as black noise, pink noise, white noise, green noise, velvet noise, etc, that are scientifically proven to help insomniacs fall asleep and stay asleep.
+Designed for young to middle aged adults such as students, professionals and parents, who after a long day of work find it difficult to sleep and relax. 
+
+ These individuals often experience daily feelings of stress, anxiety, restlessness, and overthinking, which the icons and sounds in the app are designed to reflect. The app offers a relatable experience by visually and audibly capturing these emotions, providing users with a tool to understand and connect with their own mental states. 
+
+  Most prefer easy to use websites that doesn’t involve any logging in or registration to use them. User can immediately use and interact with icons without having to worry about their emails and passwords, they just have to select their preferred icon and sound, and rest.
+
+Users will turn to this app because it offers a meaningful, personalized approach to managing insomnia. It helps them better understand their thoughts and emotions, creating a comforting and supportive experience that aligns with their daily struggles. The app serves as a relatable tool that acknowledges their challenges and provides a form of emotional expression and relaxation.
 
 Green colour Is used which is known to symbolize freshness, harmony and peace, desperately needed by people suffering from insomnia.

@@ -28,4 +28,4 @@ Using:
 •	Eye
 •	Style of drawing
 •	Geometric primitives
-Helps establish continuity and correspondence between the icons and icons, and between icons and idea.
+Helps establish continuity and correspondence between the icons and icons, and between icons and idea.m

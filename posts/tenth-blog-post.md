@@ -29,7 +29,7 @@ colour palette:
 •	Split complimentary/compund
 •	Triads/triadic
 
-We went through the Flat Design anf The Pen tool slides, we learned different types of flat designs and elements that make a design, flat design. We also practiced the pen tool and selection tool of illustrator through various games, such as The Bézier Game, the rabbit tracing challenge and more.
+We went through the Flat Design anf The Pen tool slides, we learned different types of flat designs and elements that make a design, flat design. We also practiced the pen tool and selection tool ![edhoppers painting](subfolder/pic15.png)of illustrator through various games, such as The Bézier Game, the rabbit tracing challenge and more.
 
 We even had a tracing activity where we had to trace Edward Hoppers painting and I chose Early Sunday Morning.
 I traced the parts using pen tool, and I traced the parts that stood out to me the most, which were the use of various lines in every part of the painting.
@@ -38,4 +38,6 @@ I traced the parts using pen tool, and I traced the parts that stood out to me t
 
 For Homework we had to choose 1 of our icons and duplicate them 4 times with 4 different colour variations using illustrator.
 
+![icons duplicated](subfolder/pic16.png)
 
+I tried different colours and found monochrome to suit the best.Green colour Is used which is known to symbolize freshness, harmony and peace, desperately needed by people suffering from insomnia.

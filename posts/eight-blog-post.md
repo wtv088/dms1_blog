@@ -41,4 +41,4 @@ Designed for young to middle aged adults such as students, professionals and par
 
 Users will turn to this app because it offers a meaningful, personalized approach to managing insomnia. It helps them better understand their thoughts and emotions, creating a comforting and supportive experience that aligns with their daily struggles. The app serves as a relatable tool that acknowledges their challenges and provides a form of emotional expression and relaxation.
 
-Green colour Is used which is known to symbolize freshness, harmony and peace, desperately needed by people suffering from insomnia.
+

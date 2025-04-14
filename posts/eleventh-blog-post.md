@@ -1,7 +1,7 @@
 ---
 title: week 5 session B
 published_at: 2025-04-08
-snippet:The Principles of Design
+snippet: The Principles of Design
 disable_html_sanitization: true
 allow_math: true
 ---

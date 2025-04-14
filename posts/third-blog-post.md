@@ -5,6 +5,7 @@ snippet: Editing Principles
 disable_html_sanitization: true
 allow_math: true
 ---
+
 In Week 1, Session 2, we learned how to create a strong self-portrait using different filming and editing techniques such as temporal connection, spatial connection, quick cuts, juxtaposition, transitions, and more. Later in the class, we were introduced to Premiere Pro and taught the basics of how to use the app.
 
 Towards the end, we were given a task to try out Premiere Pro and practice basic editing techniques, such as making cuts.

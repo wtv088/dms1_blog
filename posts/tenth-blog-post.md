@@ -5,6 +5,7 @@ snippet: Colour and Form
 disable_html_sanitization: true
 allow_math: true
 ---
+
 I had almost completed all the icons, but was extremely unsure if that how it should be, so I revisted the icons and the iterations, and even asked my tutor for their advice(really helpful).
 
  I was on the edge of redoing all the icons all over again with another prompt, but they suggested its better to develop on the current icons. 

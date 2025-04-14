@@ -5,6 +5,7 @@ snippet: Sound and Vision
 disable_html_sanitization: true
 allow_math: true
 ---
+
 In Week 2, Session 2, we explored the topics of *Materialisation, Emotion, & Attention* through a lecture by Darrin Verhagen. We also looked into sound libraries and learned how to access and use them effectively in our projects. Additionally, we were introduced to copyright resources to help us understand the proper use of audio, visuals, and other media in our work.
 
 In Week 2, Session 2, we also learned about different modes of sound:

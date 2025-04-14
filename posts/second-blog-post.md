@@ -5,6 +5,7 @@ snippet: Welcome to Digital Media
 disable_html_sanitization: true
 allow_math: true
 ---
+
 In the first week, during session 1, we were given an overview of the assignments and what to expect from the design studio, including how it's useful for things like UX. Along with the lecture, we also did a teamwork activity called a scavenger hunt, where we had to find specific places and take pictures of them or with them. Here are the photos:
 
 ![4 people](subfolder/pic1.png)

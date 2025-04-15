@@ -18,18 +18,28 @@ Used lines and points to give them more meaning, for instance, I made use of ver
 
 In Week 5 Session A, we learned about various color theories such as;
 Qualities of color:
-'-	Hue, Saturation & Value                                                  
-'-	Colour Associations
-'-	Colour Wheel
-'-	Colour Contrast
-'-	Colour Harmony
-AND  
+-	Hue, Saturation & Value      
+
+-	Colour Associations
+
+-	Colour Wheel
+
+-	Colour Contrast
+
+-	Colour Harmony
+
+AND 
+
 colour palette:       
-'-	Monochromatic
-'-	Analogous
-'-	Complimentary
-'-	Split complimentary/compund
-'-	Triads/triadic
+-	Monochromatic
+
+-	Analogous
+
+-	Complimentary
+
+-	Split complimentary/compund
+
+-	Triads/triadic
 
 We went through the Flat Design and The Pen tool slides, we learned different types of flat designs and elements that make a design, flat design. We also practiced the pen tool and selection tool of illustrator through various games, such as The Bézier Game, the rabbit tracing challenge and more.
 

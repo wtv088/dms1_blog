@@ -25,11 +25,11 @@ With the help of the elements of design, the focal point of the icon design is t
  Further made the use of vertical lines to draw jaws that establish an authority over the eye(insomniacs), that portrays the authority the insomnia has over the individual. With the help of curvy lines I made clouds that seem tranquil but due to the thunder (made with vertical lines) it shows disturbance in the lives of insomniacs.
 
 Using:
-•	Monochrome colour
-•	Circle as the shape of the icon
-•	Eye
-•	Style of drawing
-•	Geometric primitives
+-	Monochrome colour
+-	Circle as the shape of the icon
+-	Eye
+-	Style of drawing
+-	Geometric primitives
 
 Helps establish continuity and correspondence between the icons and icons, and between icons and idea.
 

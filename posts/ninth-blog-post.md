@@ -20,7 +20,9 @@ For homework,I came up with these icon sketches for the prompt I selected.
 ![icon sketches 2](subfolder/pic13.png)
 ![icon sketches 3](subfolder/pic14.png)
 
-With the help of the elements of design, the focal point of the icon design is the eye, that symbolizes an insomniac. With the help of lines, I created the shape of the eye and other elements in the icons. Made the use of horizontal lines to depict stability of water and the eye underwater showing that the eye is under a stable pressure making it claustrophobic and unable to get out of the water. Further made the use of vertical lines to draw jaws that establish an authority over the eye(insomniacs), that portrays the authority the insomnia has over the individual. With the help of curvy lines I made clouds that seem tranquil but due to the thunder (made with vertical lines) it shows disturbance in the lives of insomniacs.
+With the help of the elements of design, the focal point of the icon design is the eye, that symbolizes an insomniac. With the help of lines, I created the shape of the eye and other elements in the icons. Made the use of horizontal lines to depict stability of water and the eye underwater showing that the eye is under a stable pressure making it claustrophobic and unable to get out of the water.
+
+ Further made the use of vertical lines to draw jaws that establish an authority over the eye(insomniacs), that portrays the authority the insomnia has over the individual. With the help of curvy lines I made clouds that seem tranquil but due to the thunder (made with vertical lines) it shows disturbance in the lives of insomniacs.
 
 Using:
 •	Monochrome colour
@@ -28,4 +30,7 @@ Using:
 •	Eye
 •	Style of drawing
 •	Geometric primitives
-Helps establish continuity and correspondence between the icons and icons, and between icons and idea.m
+
+Helps establish continuity and correspondence between the icons and icons, and between icons and idea.
+
+

@@ -9,7 +9,7 @@ In week 4 session  A, we did the Black Squares Activity, where we had to use onl
 
 With the help of Illustrator 2025 Essential Training videos. It was a very structured line of videos that helped understand the basics of Adobe Illustrator. With the help of the videos we understood all the types of panels and task bars, such as toolbox, panels, control strip, status bar and context task bar. We also learned various ways to learn to zoom in and out using keyboard shortcuts and other tools. With the help of these, it was easier to navigate through the black square activity.
 
-We used selection tools to select and deselect the squares to arrange in the way we desire.in addition to selection tool we further practiced the shape and line tools.
+We used selection tools to select and deselect the squares to arrange in the way we desire, in addition to selection tool we further practiced the shape and line tools.
 
 ![Black Square Activity](subfolder/pic9.png)
 
@@ -17,7 +17,7 @@ Along with the Black Square Activity, we were introduced to the Assignment 2, sh
 
 Personally, the prompt that appealed to me was “dream”, as it can be interpreted in various ways and forms.
 
-For homework, We  had to make a mind map to help brainstorm ideas.
+For homework, We had to make a mind map to help brainstorm ideas.
 
 ![mind map](subfolder/pic10.png)
 

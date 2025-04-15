@@ -10,3 +10,5 @@ In Week 5 Session B, we went over the principles of design which includes rhythm
 balance, dominance, contrast, and proportion. And were also introduced to the basics of HTML.
 
 For homework, we had to replace the images provided to the icon images that we made for the assignment 2.
+
+![updating of icons on website](subfolder/pic17.png)

@@ -30,7 +30,8 @@ Qualities of color:
 
 AND 
 
-colour palette:       
+colour palette:  
+     
 -	Monochromatic
 
 -	Analogous

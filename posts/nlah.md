@@ -1,5 +1,5 @@
 ---
-title: Week 2 Session B
+title: pewww
 published_at: 2025-14-03
 snippet: Sound and Vision
 disable_html_sanitization: true

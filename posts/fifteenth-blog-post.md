@@ -13,14 +13,15 @@ allow_math: true
 we explored different ways to design space and how meaning is created through spatial relationships. 
 
 **Key concepts include:**
--	Space as Void
--	Euclidean Space
--	The Japanese Concept of Ma (the space between)
--	Form and Void
--	Shaping Space and Spatial Composition
--	Spatial Elements- Depth & Perspective
--	Spatial Elements- Directionality
--	Spatial Elements- Verticality
+
+- Space as Void
+- Euclidean Space
+- The Japanese Concept of Ma (the space between)
+- Form and Void
+- Shaping Space and Spatial Composition
+- Spatial Elements- Depth & Perspective
+- Spatial Elements- Directionality
+- Spatial Elements- Verticality
 
  These ideas helped deepen our understanding of how space can be felt.
 

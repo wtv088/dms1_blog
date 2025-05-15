@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-** Week 7 Session B: Designing Space & Unity Setup**
+**Week 7 Session B: Designing Space & Unity Setup**
 
  <ins> First half of the session </ins>
 

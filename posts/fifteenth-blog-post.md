@@ -33,4 +33,4 @@ we explored different ways to design space and how meaning is created through sp
  
  This technical setup is essential for developing Assignment 3, where the user’s movement and perspective play a key role in the storytelling.. 
  
- We spent time experimenting independently. Using the **Terrain Tool**, we created surfaces like mountains, grass and even shaped a plateau.
+ We spent time experimenting independently. Using the **Terrain Tool**, we created surfaces like mountains, grass and even shaped plateau.

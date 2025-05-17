@@ -50,6 +50,7 @@ We applied these principles by adding and to the mountain terrain we had previou
 This allowed us to test how sound with form, terrain and movement giving us firsthand experience in designing immersive audio environments.
 
 **HOMEWORK**
+
 For my design, I began adding layered soundscapes across all rooms:
 
 <ins> Approach to Room 1 </ins>: Distant crow caws, foreshadow unease.

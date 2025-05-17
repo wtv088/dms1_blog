@@ -1,7 +1,7 @@
 ---
 title: week 8 session B
 published_at: 2025-05-15
-snippet:  Space and Sound
+snippet: Space and Sound
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -51,6 +51,7 @@ This allowed us to test how sound with form, terrain and movement giving us firs
 
 **HOMEWORK**
 For my design, I began adding layered soundscapes across all rooms:
+
 <ins> Approach to Room 1 </ins>: Distant crow caws, foreshadow unease.
 
 <ins> Room 1 (struggle)</ins>: filled with whispers and ghostly moans, spatially arranged to make the user feel the state of my internal judgment and fear I felt before my emotional transition.

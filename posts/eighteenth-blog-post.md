@@ -55,7 +55,8 @@ The 3-room sequence was designed to represent a transformation.
 The sounds in each room enhanced the experience even more.
 
 It was meaningful to see that the emotional narrative came through clearly to someone experiencing it for the first time. This validated my choices.
+
  
 **Next step:**
 
-I will refine some of the environmental cues, like lighting shifts or sound transitions, to make the emotional changes feel more seamless.im also considering adding subtle guiding elements to support users who might mot explore as confidently without instructions. 
+I will refine some of the environmental cues, like lighting shifts or sound transitions, to make the emotional changes feel more seamless. I am also considering adding subtle guiding elements to support users who might mot explore as confidently without instructions. 

@@ -39,6 +39,8 @@ These tools gave us greater control over the shape and feel of our environments,
 
 **3D assets & Form**
 
+![3D asset](subfolder/pic28.png)
+
 We were introduced to the concept of Visual Encounters and how users emotionally respond to what they see in a space.
 we explored:
 
@@ -55,7 +57,7 @@ We also learned how to:
 
 **HOMEWORK**
 
-For my homework, I started replacing the basic greybox geometry with actual #D Assets that match the emotional tone of each room in my environment.
+For my homework, I started replacing the basic greybox geometry with actual 3D Assets that match the emotional tone of each room in my environment.
 
 To address the visual stillness, I introduce Fog Particles:
 

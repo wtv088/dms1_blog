@@ -16,6 +16,8 @@ We then installed Unity and activated our personal licenses, officially beginnin
 
 <ins> Second half of the session </ins>
 
+![solar system](subfolder/pic24.png)
+
 We then began to apply what we learned by attempting to create a 3D solar system, using Solar System Scope as a visual reference, the website also provided us with free to use textures and backgrounds, which helped us bring visual realism to the scene.
 
 This hands-on task gave us a concrete introduction to working with Unity and its tools.

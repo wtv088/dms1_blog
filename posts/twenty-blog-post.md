@@ -74,3 +74,5 @@ Ans- At first I started with contrasting elements, assets and materials, and by 
 discovered otherwise?
 
 Ans- Through playtesting, I discovered how users interacted with the environment differently than I did. Some areas that seemed clear to me were confusing for others, and certain cues were overlooked. This feedback helped me to improve the navigation and make the elements more noticeable. 
+
+**HOMEWORK**

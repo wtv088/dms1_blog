@@ -23,6 +23,7 @@ objective perspective.
 We were introduced to writing two key reflective formats:
 
 - Designer Statement
+
 - Designer Biography
 
 These reflections help us define our identity as emerging creatives and communicate our evolving design perspective.

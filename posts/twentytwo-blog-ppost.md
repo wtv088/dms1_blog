@@ -42,6 +42,8 @@ These tools helped us understand and generate wireframes better and faster.
 
 **HOMEWORK**
 
+**Wireframe 1**
+
 ![wireframe 1](subfolder/pic30.png)
 
 <ins> Layout description </ins>
@@ -51,6 +53,7 @@ This week, I created a rough wireframe for my website using wireframe.cc. the la
 The circle at the top will be the image of the artist. Focusing on clarity and structure.
 
 Each column represents one of my 3 projects:
+
 -	Assignment 1 (self-portrait)
 
 -	Assignment 2 (flat design icons)
@@ -60,6 +63,8 @@ Each column represents one of my 3 projects:
 **Result-**
 
 For this layout I feel its too simple and common, so I am planning not to use this layout, and continue working quickly and roughly to create another wireframe, hoping its better than this one.
+
+**Wireframe 2**
 
 ![wireframe 2](subfolder/pic32.png)
 
@@ -75,7 +80,9 @@ This layout is a bit better and well-structured than the previous, and even has 
 
 And if I add minimum text in each of the boxes the website will look empty and bland. I will continue working quickly and roughly to create another wireframe.
 
-![wireframe 2](subfolder/pic31.png)
+**Wireframe 3**
+
+![wireframe 3](subfolder/pic31.png)
 
 <ins> Layout description </ins>
 

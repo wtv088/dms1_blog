@@ -34,7 +34,7 @@ We then had an activity where we had to grab screenshot of any website on deskto
 
 ![desktop grif](subfolder/pic33.png)
 
-And then we tried doing the same but in a mobile layout
+And then we tried doing the same but in a mobile layout,
 
 ![mobile grid](subfolder/pic34.png)
 

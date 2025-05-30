@@ -22,7 +22,7 @@ The topics we covered are:
 
 -	Clear and concise language
 
-We then went**into figma** and learned more about accessibility in Figma, like:
+We then went **into figma** and learned more about accessibility in Figma, like:
 
 -	Plugins
 
@@ -37,6 +37,8 @@ We then had an activity where we had to grab screenshot of any website on deskto
 And then we tried doing the same but in a mobile layout
 
 ![mobile grid](subfolder/pic34.png)
+
+According to me, I think the desktop version of the app fits better than the mobile version.
 
 **HOMEWORK**
 

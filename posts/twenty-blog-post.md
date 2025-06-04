@@ -76,3 +76,55 @@ discovered otherwise?
 Ans- Through playtesting, I discovered how users interacted with the environment differently than I did. Some areas that seemed clear to me were confusing for others, and certain cues were overlooked. This feedback helped me to improve the navigation and make the elements more noticeable. 
 
 **HOMEWORK**
+
+After having the interview with a fellow colleague, ideas about my creative works started becoming clearer and it became more clear to me what I want the users to infer and feel through my works as well as my website.
+
+As this semester unfolds, so does my practice that is one project at a time, shaped by introspection, trial, error and emotional storytelling. Creating my artist website Is not just about displaying finished works but about building a personal and technical growth. Each section of the site reflects where I was in the process, and where I hope to go as a future UX designer.
+
+<ins>The structure is about the progression of my assignments:</ins>
+
+-	Assignment 1: A personal self-portrait in design form, “Fragments of a Designer”
+
+-	Assignment 2: A sensory and interactive project addressing sleep and mental rest, “Insomniac’s Haven”
+
+-	Assignment 3: A transformation of emotions through an immersive experience, “Struggle.Transition.Resolution”
+
+Visually, I want each piece to feel distinct yet cohesive. I plan on using rounded shapes, playful color palettes and more.
+
+**What kind of key words do you want the user to associate with the aesthetics of your webpage?**
+
+<ins>I have landed on a few key words to guide the aesthetics:</ins>
+
+-	Clean
+
+-	Bright
+
+-	Summery
+
+-	Fresh
+
+-	Alive
+
+**Who is the target audience?**
+
+<ins>My website is for:</ins>
+
+-	Educators who are assessing my creative growth
+
+-	Design students who might resonate with similar themes
+
+-	Collaborators, UX mentors or creative professionals who want to see how I think, feel and build
+
+**What features will your audience want to see in your final webpage design?**
+
+<ins>To serve this audience, I will prioritize:</ins.>
+
+-	Clarity
+
+-	Artist statements
+
+-	Visual flow
+
+-	About me
+
+This website will not just be a portfolio but mirror of my semester.

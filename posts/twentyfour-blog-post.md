@@ -39,3 +39,5 @@ And more.
 Reviewed the homework tasks and blog entries that I have produced so far. Ensured that my blog is as accessible and professional as it can be.
 
 As per the feedback I received I reduced the writing content and made it more professional.
+
+![pic](subfolder/pic44.png)

@@ -111,3 +111,6 @@ Each project section feels more intentional and polished in how it represent the
 
 -	layered visuals and gentle animations using anchors for UI.
 
+**Added Effects**
+
+I added certain effects to the website to make more playful and interactive. For example, when the user hovers cursor over blurred images they turn clearer and crisp and also added a strip of moving icons to display all my icons towards the end of the webpage.
